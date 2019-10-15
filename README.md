@@ -1,1 +1,1 @@
-![sdr.820T2.png](sdr.820T2.png)
+<img src="sdr.820T2.png" width="400" />
