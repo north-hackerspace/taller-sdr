@@ -1,2 +1,1 @@
-# taller-sdr
-Taller de Radio Definida por Software (SDR)
+![sdr.820T2.png](sdr.820T2.png)
