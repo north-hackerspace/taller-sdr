@@ -13,7 +13,7 @@
 
 Especificaciones:
 - Tamaño: 86*26*12/3,38*1,02*0,47"
-- Peso neto: 70g (60g neto)
+- Peso: 70g (60g neto)
 - Batería no incluida
 - 1x DVB-T
 - 1x antena
