@@ -1,6 +1,6 @@
 # Equipo
 
-<img src="img/sdr.820T2.png" width="500" />
+<img src="img/sdr.820T2.1.png" width="500" />
 
 ### USB 2,0 Software Radio DVB-T RTL2832U + R820T2 SDR
 
