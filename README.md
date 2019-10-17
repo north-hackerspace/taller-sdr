@@ -18,3 +18,8 @@ Especificaciones:
 - 1x DVB-T
 - 1x antena
 - 1x Control remoto
+
+# Software
+
+<img src="img/sdr.radio.png" />
+
