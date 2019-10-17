@@ -11,12 +11,11 @@
 - Windows 2000/XP/Vista/WIN7;
 - MPEG-2, MPEG-4 (H.264);
 
-Especificaciones:
-- Tamaño: 86*26*12/3,38*1,02*0,47"
-- Peso: 70g (60g neto)
+Incluye:
 - 1x DVB-T
 - 1x antena
 - 1x Control remoto
+- 1x mini CD 
 
 # Software
 
