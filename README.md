@@ -21,5 +21,5 @@ Especificaciones:
 
 # Software
 
-<img src="img/sdr.radio.png" />
+<img src="img/sdr-radio.png" />
 
