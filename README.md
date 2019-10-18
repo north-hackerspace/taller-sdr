@@ -5,7 +5,7 @@
 ### USB 2,0 Software Radio DVB-T RTL2832U + R820T2 SDR
 
 - R820T2 + RTL2832U chip;
-- 24 - 1766 MHz;
+- 24 - 1766 MHz (depende de la antena);
 - Apoyo SDR, DAB, FM, DVB-T;
 - Control remoto;
 - Windows 2000/XP/Vista/WIN7;
