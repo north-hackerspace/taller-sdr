@@ -21,13 +21,13 @@ Incluye:
 
 <img src="img/sdr-radio.png" />
 
-# Windows Driver Installation 
+## Windows Driver Installation 
 
 Go to the [drivers](drivers) folder and run the **windows-realtek-setup.exe** driver installation tool.
 
 To test if the installation worked, used the **win_rtl_tester.zip** tool. 
 
-# Special instructions for Windows 10
+## Special instructions for Windows 10
 
 Windows 10 adds an extra level of challenge.
 
@@ -35,8 +35,8 @@ You have to [download zadig 2.4](https://zadig.akeo.ie/) to change the drivers a
 
 https://www.youtube.com/watch?v=LWyswHcE5dU
 
-# Download SDR-Sharp
+## Download SDR-Sharp Software
 
-Go to the page [https://airspy.com/download/](https://airspy.com/download/) and download the **Windows SDR Software Package**.
+To get the software for listening to radio transmissions, go to the page [https://airspy.com/download/](https://airspy.com/download/) and download the **Windows SDR Software Package**.
 
 
