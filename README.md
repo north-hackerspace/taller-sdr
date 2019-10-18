@@ -35,6 +35,8 @@ You have to [download zadig 2.4](https://zadig.akeo.ie/) to change the drivers a
 
 https://www.youtube.com/watch?v=LWyswHcE5dU
 
+**BE CAREFUL WHEN DOING THIS!** You can irretrivably screw up your computer if you choose the wrong driver!
+
 ## Download SDR-Sharp Software
 
 To get the software for listening to radio transmissions, go to the page [https://airspy.com/download/](https://airspy.com/download/) and download the **Windows SDR Software Package**.
