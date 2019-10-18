@@ -31,7 +31,7 @@ To test if the installation worked, used the **win_rtl_tester.zip** tool.
 
 Windows 10 adds an extra level of challenge. You will probably get a message like this:
 
-[rt-win-driver-error.png](rt-win-driver-error.png)
+![rt-win-driver-error.png](rt-win-driver-error.png)
 
 You have to [download zadig 2.4](https://zadig.akeo.ie/) to change the drivers as explained in this video:
 
