@@ -8,7 +8,7 @@
 - 24 - 1766 MHz (depende de la antena);
 - Apoyo SDR, DAB, FM, DVB-T;
 - Control remoto;
-- Windows 2000/XP/Vista/WIN7;
+- Linux + Windows;
 - MPEG-2, MPEG-4 (H.264);
 
 Incluye:
