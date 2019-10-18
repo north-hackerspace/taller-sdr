@@ -27,6 +27,10 @@ Go to the [drivers](drivers) folder and run the **windows-realtek-setup.exe** dr
 
 To test if the installation worked, used the **win_rtl_tester.zip** tool. 
 
+You should get an output like this:
+
+![img/rt-win-driver-ok.png](img/rt-win-driver-ok.png)
+
 ## Special instructions for Windows 10
 
 Windows 10 adds an extra level of challenge. You will probably get a message like this:
