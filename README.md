@@ -23,7 +23,9 @@ Incluye:
 
 ## Windows Driver Installation 
 
-Go to the [drivers](drivers) folder and run the **windows-realtek-setup.exe** driver installation tool.
+Go to the [drivers](drivers) folder and run the **windows-realtek-setup.exe** driver installation tool. 
+
+This is the same drivers that come in the CD.
 
 To test if the installation worked, used the **win_rtl_tester.zip** tool. 
 
