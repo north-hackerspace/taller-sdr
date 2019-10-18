@@ -35,4 +35,8 @@ You have to [download zadig 2.4](https://zadig.akeo.ie/) to change the drivers a
 
 https://www.youtube.com/watch?v=LWyswHcE5dU
 
+# Download SDR-Sharp
+
+Go to the page [https://airspy.com/download/](https://airspy.com/download/) and download the **Windows SDR Software Package**.
+
 
