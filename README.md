@@ -54,3 +54,7 @@ Para escuchar transmisiones de radio, ve a [https://airspy.com/download/](https:
 Dependiendo de la distribución. Un RTL2832U requiere el driver `rtl-sdr` y posiblemente alguno más.
 
 Después, para visualizar y escuchar, se requiere el paquete gqrx.
+
+## OSX: instalacion
+
+https://www.radiohobbyist.org/blog/?p=1823
