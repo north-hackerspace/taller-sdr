@@ -21,32 +21,36 @@ Incluye:
 
 <img src="img/sdr-radio.png" />
 
-## Windows Driver Installation 
+## Windows: instalación de drivers
 
-Go to the [drivers](drivers) folder and run the **windows-realtek-setup.exe** driver installation tool. 
+Ve a la carpeta [drivers](drivers) y ejecuta **windows-realtek-setup.exe**, la herramienta de instalación de drivers. 
 
-This is the same drivers that come in the CD.
+Estos son los mismos que vendrán en el CD.
 
-To test if the installation worked, used the **win_rtl_tester.zip** tool. 
+Para probar si funciona la instalación, usa la herramienta **win_rtl_tester.zip**. 
 
-You should get an output like this:
+Debería de salir algo así:
 
 ![img/rt-win-driver-ok.png](img/rt-win-driver-ok.png)
 
-## Special instructions for Windows 10
+### Instrucciones especiales para Windows 10
 
-Windows 10 adds an extra level of challenge. You will probably get a message like this:
+Windows 10 añade... un desafío algo más grande. Es probable que te encuentres con un mensaje así:
 
 ![img/rt-win-driver-error.png](img/rt-win-driver-error.png)
 
-You have to [download zadig 2.4](https://zadig.akeo.ie/) to change the drivers as explained in this video:
+Tienes que descargarte [zadig 2.4](https://zadig.akeo.ie/) para cambiar los drivers, como se explica en este vídeo:
 
 https://www.youtube.com/watch?v=LWyswHcE5dU
 
-**BE CAREFUL WHEN DOING THIS!** You can irretrivably screw up your computer if you choose the wrong driver!
+**¡CUIDADO!** Debes escoger el driver correcto o puedes hacer daño irreparable a tu ordenador.
 
-## Download SDR-Sharp Software
+### Descargar el software SDR-Sharp 
 
-To get the software for listening to radio transmissions, go to the page [https://airspy.com/download/](https://airspy.com/download/) and download the **Windows SDR Software Package**.
+Para escuchar transmisiones de radio, ve a [https://airspy.com/download/](https://airspy.com/download/) y descarga el **Windows SDR Software Package**.
 
+## Linux: instalación de drivers y herramientas
 
+Dependiendo de la distribución. Un RTL2832U requiere el driver `rtl-sdr` y posiblemente alguno más.
+
+Después, para visualizar y escuchar, se requiere el paquete gqrx.
